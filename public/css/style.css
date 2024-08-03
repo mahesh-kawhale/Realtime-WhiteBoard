@@ -27,7 +27,7 @@
 }
 .tool-panel {
   display: flex;
-  background-color: white;
+  background-color: rgb(191, 182, 224);
   height: 81%;
   width: 70%;
   justify-content: space-evenly;
